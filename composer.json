@@ -1,6 +1,9 @@
 {
     "name": "autodata-group/whisky-activity-log-constants",
     "description": "Contains event types constants for ease of use when calling the Activity Log API",
-    "minimum-stability": "dev",
-    "require": {}
+    "license": "MIT",
+    "require": {
+        "php": ">=4.0.0"
+    },
+    "minimum-stability": "stable"
 }
